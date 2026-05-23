@@ -84,6 +84,7 @@ Related Projects
 | **The 10:80:10 Principle** | 人とAIの共創黄金比「10:80:10」の法則——AI時代の思考のOS。| [GitHub](https://github.com/Leading-AI-IO/the-10-80-10-principle)  |
 | **A Trillion Dollars and a Firebomb** | 1兆ドルと火炎瓶。AI時代の同時加速する現実。 | [GitHub](https://github.com/Leading-AI-IO/a-trillion-and-a-firebomb)  |
 | **The End of the Attention Economy** | アテンション・エコノミーの終わり。次世代SNSの在り方とは？ | [GitHub](https://github.com/Leading-AI-IO/the-attention-economy-is-over)  |
+| **The Agentic Commerce Economy** | AIエージェントが購買を代行する時代、広告モデルの構造的変化。 | [GitHub](https://github.com/Leading-AI-IO/agentic-commerce-economy)  |
 
 ---
 
