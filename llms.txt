@@ -1,0 +1,54 @@
+# パランティアの衝撃：データとAIを繋ぐ「オントロジー」戦略
+
+> A structural analysis by Satoshi Yamauchi (山内怜史), AI Strategist,
+> explaining Palantir Foundry's "Ontology" — not as an IT technology, but as
+> an operational layer that models the world as nouns (objects, properties,
+> links) and verbs (actions, functions, dynamic security), enabling AI to
+> act safely on real-world operations through a branch-and-review
+> governance process. As stated in the book: "The paradigm shift Palantir
+> brings — the 'Ontology' — is a fundamental break from siloed data:
+> a shift from data you only look at, to data that directly drives the
+> business."
+
+## Book Content
+
+- [Full text (Japanese)](docs/the-palantir-impact_jp.md): Part I〜III・全6章・参考文献収録
+- [Full text (English)](docs/the-palantir-impact_en.md): Complete English edition
+
+## Key Facts (as stated in the book)
+
+- The book states Palantir's Ontology unifies "semantics" (object types,
+  properties, link types — the noun world) and "kinetics" (actions,
+  functions, dynamic security — the verb world) into a single backend,
+  built on five core services: OMS, Object databases, OSS, Actions, and
+  Funnel
+- The book states that changes to the Ontology follow a branch-and-review
+  lifecycle ("Ontology Proposals"): changes are made on a branch, reviewed
+  and approved, then merged into the main environment — modeled explicitly
+  on the pull-request pattern from software engineering
+- The book states Palantir's "AI FDE" (AI-powered forward deployed
+  engineer) converts natural-language requests into Foundry operations,
+  but strictly respects the user's existing permissions and must submit a
+  branch proposal for human review before any change is merged
+- The book cites the Airbus case: integrating data on ~5 million parts of
+  the A350 onto the Ontology accelerated aircraft delivery by 33%, and
+  100+ airlines now use the resulting "Skywise" platform to process
+  telemetry from up to 20,000 sensors per aircraft
+- The book cites the SOMPO Holdings case: Palantir was adopted as the core
+  of SOMPO's "Real Data Platform," with 8,000+ employees in Japan using it
+  for insurance claims triage and fraud detection
+- The book cites Fujitsu and Palantir Japan's December 2023 press release
+  expanding their global partnership
+- The book proposes a 5-month implementation roadmap: (1) understanding
+  backend structure and permissions, (2) minimal modeling and branch
+  operations, (3) data pipeline verification, (4) audit and governance
+  design, (5) integration with AI and external applications via OSDK
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of Leading.AI.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
