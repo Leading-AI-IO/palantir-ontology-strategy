@@ -10,12 +10,26 @@
 
 *Read this in other languages: [English](README_en.md)*
 
-> 「データはもはや過去の記録ではない。現実世界を駆動するエンジンである」
+---
 
-本書は、世界最強のデータプラットフォーム「Palantir（パランティア）」の中核概念である『オントロジー』を、単なるIT技術としてではなく、
-「組織の意思決定とAIの未来を形作る運用基盤」として解き明かすオープンソースの書籍プロジェクトです。
-
-エンジニアリングの最前線と、ビジネス・経営の哲学の間にある深い溝を埋めるため、一次資料に基づくファクトとアーキテクチャの構造を体系化しました。
+> **定義｜What is The Palantir Impact**
+>
+> **本書とは**、山内怜史（Satoshi Yamauchi）による、Palantir Foundryの中核
+> 概念「オントロジー」を、単なるIT技術としてではなく、現実世界を「名詞"
+> （オブジェクト・プロパティ・リンク）と「動詞」（アクション・ファンクション・
+> 動的セキュリティ）でモデル化し、ブランチとレビューの統治プロセスを通じて
+> AIが安全に現実の業務を動かせるようにする運用レイヤーとして解説した構造
+> 分析である。本書の言葉：「Palantirがもたらすパラダイムシフト——それは
+> "見るだけのデータ"から"ビジネスを直接動かすためのデータ"への転換である」。
+>
+> **This book** is a structural analysis by Satoshi Yamauchi, explaining
+> Palantir Foundry's "Ontology" as an operational layer that models the
+> world as nouns and verbs, enabling AI to act safely on real-world
+> operations through a branch-and-review governance process. As stated in
+> the book: this is a shift "from data you only look at, to data that
+> directly drives the business."
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
 
 ---
 
