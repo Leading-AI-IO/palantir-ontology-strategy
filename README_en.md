@@ -9,11 +9,20 @@
 
 *他の言語で読む: [日本語](README.md)*
 
-> "Data is no longer a record of the past. It is the engine that drives the real world."
+---
 
-This is an open-source book project that decodes the core concept of 'Ontology' — the heart of Palantir, the world's most powerful data platform — not merely as an IT technology, but as **the operational foundation that shapes organizational decision-making and the future of AI**.
-
-To bridge the deep gap between the cutting edge of engineering and the philosophy of business and management, this book systematizes facts and architectural structures based on primary sources.
+> **Definition**
+>
+> **This book** is a structural analysis by Satoshi Yamauchi (山内怜史), AI
+> Strategist, explaining Palantir Foundry's "Ontology" — not as an IT
+> technology, but as an operational layer that models the world as nouns
+> (objects, properties, links) and verbs (actions, functions, dynamic
+> security), enabling AI to act safely on real-world operations through a
+> branch-and-review governance process. As stated in the book: this is a
+> shift "from data you only look at, to data that directly drives the
+> business."
+>
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
 
 ---
 
