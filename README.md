@@ -104,6 +104,8 @@ Related Projects
 | **The-forward-deployed-shift** | 成果実装 ── FDEが示す、AIで「作る」が終わった世界の価値のありか。 | [GitHub](https://github.com/Leading-AI-IO/the-forward-deployed-shift)  |
 | **Frontier-Grade Open Weights** | フロンティア級のオープンウェイトモデルは、開かれたのか。 | [GitHub](https://github.com/Leading-AI-IO/frontier-grade-open-weights)  |
 | **Earned-ai-model-optionality** | AIモデルは選べる。選べるのは、選べるようにした企業だけだ。 | [GitHub](https://github.com/Leading-AI-IO/earned-ai-model-optionality)  |
+| **Us-china-ai-competition** | 米中AI競争の多層構造 ── 決めているのは、強さではなく条件である。 | [GitHub](https://github.com/Leading-AI-IO/us-china-ai-competition)  |
+| **The China AI Registry** | あなたが名前を言える5つの中国AIモデルは、中国が数えているものの1%に満たない。 | [GitHub](https://github.com/Leading-AI-IO/the-china-ai-registry)  |
 
 ---
 
