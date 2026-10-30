@@ -108,6 +108,7 @@ Related Projects
 | **The China AI Registry** | あなたが名前を言える5つの中国AIモデルは、中国が数えているものの1%に満たない。 | [GitHub](https://github.com/Leading-AI-IO/the-china-ai-registry)  |
 | **The AI Forecast Registry** | AI未来予測の名簿 —— AIの未来をめぐる予測を、決着の前に刻む。 | [GitHub](https://github.com/Leading-AI-IO/the-ai-forecast-registry)  |
 | **the Japan Breach Registry 2026** | 2026年秋、日本の企業・組織を襲った個人情報漏えいの波 ── 事実台帳から分かる客観的分析結果。 | [GitHub](https://github.com/Leading-AI-IO/the-japan-breach-registry-2026)  |
+| **Enterprise Security in The AI Era** | パッチの向こう側 ── AI時代のエンタープライズ・セキュリティを、世界の提言から読む。 | [GitHub](https://github.com/Leading-AI-IO/enterprise-security-in-the-ai-era)  |
 
 ---
 
